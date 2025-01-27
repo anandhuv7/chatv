@@ -24,7 +24,7 @@ class _ChatBotPageState extends State<ChatBotPage> {
   final String chatApiUrl =
       "https://bdbs.co.in/php_test_by_invo/anandhu/test/chat/index.php"; // Chat API URL
   final String queriesApiUrl =
-      "https://bdbs.co.in/php_test_by_invo/anandhu/test/chat/queries.php"; // Queries API URL
+      "https://bdbs.co.in/php_test_by_invo/anandhu/test/chat/queriesdghdhghdghd.php"; // Queries API URL
 
   List<String> _queries = []; // Queries list fetched from API
   final ScrollController _scrollController = ScrollController();
